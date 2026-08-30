@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 About Me<br><br>🎓 Student Developer focused on Backend Development & AI<br><br>🔭 I'm currently building applications and AI-powered tools.<br><br>🤝 I'm looking to collaborate on Java, Spring Boot, Python, and AI projects.<br><br>🌱 I'm currently learning REST APIs, system design, and machine learning.<br><br>💬 Ask me about Java, Python, APIs, and AI projects.<br><br>⚡ Fun fact: I like building projects that solve actual problems.<br>
+ <br><br>🎓 Student Developer focused on Backend Development & AI<br><br>🔭 I'm currently building applications and AI-powered tools.<br><br>🤝 I'm looking to collaborate on Java, Spring Boot, Python, and AI projects.<br><br>🌱 I'm currently learning REST APIs, system design, and machine learning.<br><br>💬 Ask me about Java, Python, APIs, and AI projects.<br><br>⚡ Fun fact: I like building projects that solve actual problems.<br>
 
 
 ## 🌐 Socials:
