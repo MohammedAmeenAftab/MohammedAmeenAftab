@@ -1,6 +1,6 @@
 # 💫 About Me:
  <br><br>🎓 Student Developer focused on Backend Development & AI<br><br>🔭 I'm currently building applications and AI-powered tools.<br><br>🤝 I'm looking to collaborate on Java, Spring Boot, Python, and AI projects.<br><br>🌱 I'm currently learning REST APIs, system design, and machine learning.<br><br>💬 Ask me about Java, Python, APIs, and AI projects.<br><br>⚡ Fun fact: I like building projects that solve actual problems.<br>
-
+ 
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdameenaftab2006@gmail.com) 
