@@ -17,9 +17,19 @@
     <img alt="GitHub contribution snake" src="./dist/github-snake.svg">
   </picture>
 </p>
-![](https://github-readme-stats.shion.dev/api?username=MohammedAmeenAftab&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=MohammedAmeenAftab&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MohammedAmeenAftab&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=MohammedAmeenAftab&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MohammedAmeenAftab&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MohammedAmeenAftab&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
 
 ---
 [![](https://komarev.com/ghpvc/?username=MohammedAmeenAftab&icon=0&color=2ea44f)](https://visitcount.itsvg.in)
