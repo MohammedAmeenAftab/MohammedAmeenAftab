@@ -17,7 +17,7 @@
     <img alt="GitHub contribution snake" src="./dist/github-snake.svg">
   </picture>
 </p>
-# 📊 GitHub Stats
+
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=MohammedAmeenAftab&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
